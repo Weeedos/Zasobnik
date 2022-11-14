@@ -1,0 +1,15 @@
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.exe
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.deps.json
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.runtimeconfig.json
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.dll
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\bin\Debug\net6.0\Zasobnik.pdb
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.csproj.AssemblyReference.cache
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.AssemblyInfoInputs.cache
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.AssemblyInfo.cs
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.csproj.CoreCompileInputs.cache
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.dll
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\refint\Zasobnik.dll
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.pdb
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\Zasobnik.genruntimeconfig.cache
+C:\Users\vosol\source\repos\Zasobnik\Zasobnik\obj\Debug\net6.0\ref\Zasobnik.dll
